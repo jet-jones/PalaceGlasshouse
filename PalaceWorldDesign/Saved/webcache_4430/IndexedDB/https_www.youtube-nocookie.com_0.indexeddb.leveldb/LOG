@@ -1,2 +1,7 @@
-2024/07/16-23:45:25.153 7220 Creating DB E:/Active Projects/PalaceGlasshouse/PalaceWorldDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/07/16-23:45:25.265 7220 Reusing MANIFEST E:/Active Projects/PalaceGlasshouse/PalaceWorldDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/31-16:20:13.711 46b0 Reusing MANIFEST E:/Active Projects/PalaceGlasshouse/PalaceWorldDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/31-16:20:13.715 46b0 Recovering log #3
+2024/07/31-16:20:13.716 46b0 Reusing old log E:/Active Projects/PalaceGlasshouse/PalaceWorldDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/07/31-16:22:23.742 1f14 Level-0 table #5: started
+2024/07/31-16:22:23.747 1f14 Level-0 table #5: 1167 bytes OK
+2024/07/31-16:22:23.749 1f14 Delete type=0 #3
+2024/07/31-16:22:23.751 1f14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
