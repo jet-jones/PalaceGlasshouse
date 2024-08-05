@@ -1,3 +1,5 @@
-2024/08/03-23:33:00.595 49ec Reusing MANIFEST C:/projects/PalaceGlasshouse/PalaceWorldDesign/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/08/03-23:33:00.608 49ec Recovering log #4
-2024/08/03-23:33:00.609 49ec Reusing old log C:/projects/PalaceGlasshouse/PalaceWorldDesign/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/08/06-00:55:35.647 694c Reusing MANIFEST H:/Active Projects/PalaceGlasshouse/PalaceWorldDesign/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/06-00:55:35.659 694c Recovering log #4
+2024/08/06-00:55:35.659 694c Level-0 table #7: started
+2024/08/06-00:55:35.666 694c Level-0 table #7: 17062 bytes OK
+2024/08/06-00:55:35.669 694c Delete type=0 #4
