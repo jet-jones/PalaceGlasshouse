@@ -1,1 +1,16 @@
-[0806/005735.614:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0808/140312.511:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0808/140312.583:ERROR:entry_impl.cc(1075)] No file for c10307f4
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:ERROR:entry_impl.cc(1075)] No file for c103075a
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:ERROR:entry_impl.cc(1075)] No file for c10307f6
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140312.584:WARNING:storage_block-inl.h(146)] Failed data load.
+[0808/140508.789:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
