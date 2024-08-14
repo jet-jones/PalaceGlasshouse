@@ -1,16 +1,3 @@
-[0808/140312.511:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0808/140312.583:ERROR:entry_impl.cc(1075)] No file for c10307f4
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:ERROR:entry_impl.cc(1075)] No file for c103075a
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:ERROR:entry_impl.cc(1075)] No file for c10307f6
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.583:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140312.584:WARNING:storage_block-inl.h(146)] Failed data load.
-[0808/140508.789:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0813/134643.912:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0813/134810.539:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[0813/134845.363:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
